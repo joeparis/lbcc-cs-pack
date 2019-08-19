@@ -10,6 +10,9 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "url": "https://github.com/joeparis/lbcc-cs-pack"
+  },
   "extensionPack": [
     "wmaurer.change-case",
     "formulahendry.code-runner",
