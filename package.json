@@ -13,6 +13,7 @@
   "repository": {
     "url": "https://github.com/joeparis/lbcc-cs-pack"
   },
+  "publisher": "joeparis",
   "extensionPack": [
     "wmaurer.change-case",
     "formulahendry.code-runner",
