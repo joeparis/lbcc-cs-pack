@@ -1,0 +1,22 @@
+{
+  "name": "lbcc-cs-pack",
+  "displayName": "LBCC CS Pack",
+  "description": "VS Code extension pack for CS161 and CS162 at LBCC.",
+  "version": "0.1.0",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "wmaurer.change-case",
+    "formulahendry.code-runner",
+    "eamodio.gitlens",
+    "MS-vsliveshare.vsliveshare",
+    "DavidAnson.vscode-markdownlint",
+    "ms-python.python",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
