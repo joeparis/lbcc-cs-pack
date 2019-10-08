@@ -21,6 +21,7 @@
     "MS-vsliveshare.vsliveshare",
     "DavidAnson.vscode-markdownlint",
     "ms-python.python",
-    "VisualStudioExptTeam.vscodeintellicode"
+    "VisualStudioExptTeam.vscodeintellicode",
+    "ms-vscode-remote.vscode-remote-extensionpack"
   ]
 }
