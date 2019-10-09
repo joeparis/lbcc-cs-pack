@@ -2,7 +2,7 @@
   "name": "lbcc-cs-pack",
   "displayName": "LBCC CS Pack",
   "description": "VS Code extension pack for CS161 and CS162 at LBCC.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.37.0"
@@ -22,6 +22,8 @@
     "DavidAnson.vscode-markdownlint",
     "ms-python.python",
     "VisualStudioExptTeam.vscodeintellicode",
-    "ms-vscode-remote.vscode-remote-extensionpack"
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl"
   ]
 }
