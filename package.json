@@ -2,7 +2,7 @@
   "name": "lbcc-cs-pack",
   "displayName": "LBCC CS Pack",
   "description": "VS Code extension pack for CS161 and CS162 at LBCC.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.37.0"
