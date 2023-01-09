@@ -1,6 +1,6 @@
 # LBCC CS161 and CS162 Extension Pack
 
-An extension pack to simplify setting up VS Code for CS161 or CS162 in the lab or on a student's computer.
+An extension pack to simplify setting up VS Code for CS161 or CS162 in the lab or on a student's computer. Please see each extension's documentation for configuration settings and additional information.
 
 ## Extensions Included
 
