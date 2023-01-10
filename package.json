@@ -15,13 +15,21 @@
   },
   "publisher": "joeparis",
   "extensionPack": [
-    "wmaurer.change-case",
-    "formulahendry.code-runner",
-    "eamodio.gitlens",
+    "njpwerner.autodocstring",
+    "ms-python.black-formatter",
+    "ms-python.gather",
+    "ms-python.isort",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-renderers",
     "MS-vsliveshare.vsliveshare",
-    "DavidAnson.vscode-markdownlint",
+    "davidanson.vscode-markdownlint",
+    "bierner.markdown-mermaid",
+    "ms-python.vscode-pylance",
+    "ms-python.pylint",
     "ms-python.python",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "ms-vscode-remote.vscode-remote-extensionpack"
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.test-adapter-converter",
+    "hbenl.vscode-test-explorer",
+    "VisualStudioExptTeam.vscodeintellicode"
   ]
 }
